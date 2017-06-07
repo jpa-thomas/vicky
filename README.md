@@ -40,3 +40,5 @@ ansible-playbook -m ping --private-key=yourkey.pem all
 Instead of all you can mention group name. !! 
 
 There are plenty of aws and other ansible modules check : http://docs.ansible.com
+
+Rubiga
